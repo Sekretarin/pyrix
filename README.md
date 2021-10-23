@@ -1,0 +1,2 @@
+# pyrix
+aggregator of opportunities
