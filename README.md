@@ -48,7 +48,7 @@ Cosmodrome от Места
 
 # Гранты
 
-Гранты от Сколково, гранты от Фонда Бортника, Гранты от Росмолодёжь, Гранты от Минцифры, РФРИТ, АСИ, ФРИИ, Корпорация МСП, региональные субсидии (https://life.akbars.ru/kak-poluchit-dengi-na-startup, https://delo.modulbank.ru/all/ip-grants, https://kontur.ru/articles/4710, https://admitad.pro/ru/blog/kak-startaperu-poluchit-podderzhku-ot-gosudarstva)
+Гранты от Сколково, гранты от Фонда Бортника, Гранты от Росмолодёжь, Гранты от Минцифры, РФРИТ, АСИ, ФРИИ, Корпорация МСП, региональные субсидии (https://life.akbars.ru/kak-poluchit-dengi-na-startup, https://delo.modulbank.ru/all/ip-grants, https://kontur.ru/articles/4710, https://admitad.pro/ru/blog/kak-startaperu-poluchit-podderzhku-ot-gosudarstva) + другие негос. гранты
 
 # Конкурсы
 
