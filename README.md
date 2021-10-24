@@ -54,6 +54,10 @@ Cosmodrome от Места
 
 Startup Tour
 
+# Венчуристы, в том числе импакт-венчур
+
+https://vc.ru/finance/300142-karta-investicionnyh-fondov-v-rossii-pe-vc и https://impact-investor.org/
+
 # Cообщества бизнес-ангелов 
 
 только зарубежные типа AngelList, Startup Point или Pitch Book
